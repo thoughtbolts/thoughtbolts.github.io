@@ -1,0 +1,51 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: thoughtbolts
+description: "Just a bolts of thought"
+keywords: "amey, jadiye, python, C, physics, python, java"
+url: http://thoughtbolts.in
+baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: https://github.com/thoughtbolts/thoughtbolts.github.io
+disqus_shortname: "ameyjadiye"
+disqus_site_shortname: "thoughtbolts"
+
+# Author settings
+author:
+  name      : Amey Jadiye
+  job       : Engineer
+  bio       : "Tech savvy, programmer, born engineer, curious towards python, biology, C, physics, python java, psycology, mpp bigdata, lowlatency, RPi"
+  thumb     : /images/author.jpg
+  email     : ameyjadiye@gmail.com
+  url       : http://thoughtbolts.in
+  github    : http://github.com/ameyjadiye
+  twitter   : http://twitter.com/ameyjadiye
+  facebook  : http://facebook.com/ameyjadiye
+  linkedin  : https://www.linkedin.com/in/amey-jadiye-34339817
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
