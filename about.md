@@ -10,7 +10,9 @@ I'm Curious towards python, machine learning, biology, C, physics, java, psycolo
 
 I like below quote of Einstein, It suits me :)
 
-<i>I have no special talent. I am only passionately curious.</i> – <b>Albert Einstein </b>
+{% highlight %}
+I have no special talent. I am only passionately curious. – Albert Einstein
+{% endhighlight %}
 
 Works speak louder than words, so look at my [GitHub](https://github.com/ameyjadiye) or [Stackoverflow](http://stackoverflow.com/users/2664649/amey-jadiye) Activities
 
