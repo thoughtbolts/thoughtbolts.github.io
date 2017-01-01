@@ -9,10 +9,7 @@ My name is Améy Jadiyé, I live in Pune, India. I'm hell Tech savvy, Programmer
 I'm Curious towards python, machine learning, biology, C, physics, java, psycology, linux, mpp, bigdata, lowlatency and RPi
 
 I like below quote of Einstein, It suits me :)
-
-{% highlight %}
-I have no special talent. I am only passionately curious. – Albert Einstein
-{% endhighlight %}
+**I have no special talent. I am only passionately curious. – Albert Einstein **
 
 Works speak louder than words, so look at my [GitHub](https://github.com/ameyjadiye) or [Stackoverflow](http://stackoverflow.com/users/2664649/amey-jadiye) Activities
 
